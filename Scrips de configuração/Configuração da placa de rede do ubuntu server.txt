@@ -1,0 +1,17 @@
+
+# This is the network config written by 'subiquity'
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    enp0s3:
+      addresses:
+        - 10.191.0.41/24
+      routes:
+        - to: default
+          via: 10.191.0.1
+      nameservers:
+          addresses: [172.16.1.2, 8.8.8.8]
+
+
+

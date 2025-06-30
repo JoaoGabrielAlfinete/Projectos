@@ -1,0 +1,58 @@
+ NUMERO DE COMPUTADORES NA SEDE
+
+
+
+
+
+
+
+PCA-1
+DAP-10
+
+84
+*****************************************************************************************************************************************
+
+
+
+XIPAMANINE
+GESTORES DE CREDITO- 8
+GESTAO DE REDE DE NEGOCIOS-8
+RECEPCAO-3
+RH-6
+HELPDESK-2
+DAP- 4
+31
+**********************************************
+
+
+MAXAQUENE
+GESTORES DE CREDITO-7
+HELPDESK-3
+RESCURSOS HUMANOS E GESTÃO DE CREDITO -8
+RECEPCAO-2
+GESTAO DE REDE DE NEGOCIOS-8
+PCA2-1
+29
+********************************************
+
+Total 198 computadores
+MALHAMPSENE
+RH-4
+GESTORES DE CREDITO -7
+GESTAO DE REDE DE NEGOCIOS -8
+HELPDESK-2
+DAF-4
+25
+*****************************
+
+ZIMPETO
+DAP- 8
+GESTORES DE CREDITO-7
+GESTAO DE REDE DE NEGOCIOS- 7
+HELP-3
+RH-4
+29
+******************************
+
+
+total 198 computadores
